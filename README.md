@@ -1,2 +1,2 @@
-# play_checkers
+# Play Checkers
 Jogo de damas multiplayer
